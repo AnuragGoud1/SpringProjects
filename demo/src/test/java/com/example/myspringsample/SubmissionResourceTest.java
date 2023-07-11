@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.myspringsample;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
